@@ -15,7 +15,7 @@ The results are visualised as boxplots, both with and without outliers, the latt
 How to run the code
 ===================
 
-The code reads data files from and outputs plots to a directory, called sgrossberg_clusterLength, which is saved on the jceei-turing-wind S3 bucket. So that the paths work, download this directory and to save this code to it.
+The code reads data files from and outputs plots to a directory, called sgrossberg_clusterLength, which is saved on the jceei-turing-wind S3 bucket. So that the paths work, download this directory and save this code to it.
 
 The code was written in R version 4.0.3. It was set up to run in RStudio, but could also be run from the command line. The libraries to install are listed in the first section of the code.
 
